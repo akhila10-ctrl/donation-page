@@ -76,6 +76,6 @@ Additional Demos
 [https://youtu.be/xAkeJXsG3dU]
 
 Team Contributions
-[Name 1]: [Specific contributions]
-[Name 2]: [Specific contributions]
-[Name 3]: [Specific contributions]
+[AKSHARA P A]: [PROBLEM IDENTIFIYING]
+[ANJANA RAMESH]: [PRESENTATION AND CODING]
+[AKHILA K]: [CODING IMPLEMENTATION]
