@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Donation Page</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to an external CSS file for styling -->
+</head>
+<body>
+    <header>
+        <h1>Support Our Cause</h1>
+        <p>Your generosity makes a difference.</p>
+    </header>
+    <main>
+        <section id="about">
+            <h2>About Us</h2>
+            <p>We are dedicated to making the world a better place. Learn more about our mission and how your donation helps.</p>
+        </section>
+        <section id="donate">
+            <h2>Make a Donation</h2>
+            <form action="process_donation.php" method="post"> <!-- Replace with your server-side processing script -->
+                <label for="name">Full Name:</label>
+                <input type="text" id="name" name="name" required>
+
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+
+                <label for="amount">Donation Amount:</label>
+                <input type="number" id="amount" name="amount" required>
+
+                <button type="submit">Donate</button>
+            </form>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 Your Organization. All rights reserved.</p>
+    </footer>
+</body>
+</html>
