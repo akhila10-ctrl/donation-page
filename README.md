@@ -9,7 +9,7 @@ Hosted Project Link
 [https://youtu.be/xAkeJXsG3dU]
 
 Project Description
-[PROVIDE AN INTUITIVE INTERFACE THAT ALLOWS USERS TO DONATE QUICKLY AND EASILY]
+[PROVIDE AN INTUITIVE INTERFACE THAT ALLOWS USERS TO DONATE MONEY  QUICKLY AND EASILY]
 
 The Problem statement
 [eradicating poverty from world]
